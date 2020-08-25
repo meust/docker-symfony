@@ -2,5 +2,7 @@
 
 Docker ortamının kurulması
 
+<code>
 cd docker-symfony
 sudo docker-compose up --build 
+</code>
