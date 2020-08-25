@@ -1,5 +1,7 @@
 .*.swp
-.idea
 .DS_Store
+
+.idea
+
 data/
 etc/ssl/
