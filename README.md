@@ -1,4 +1,4 @@
-# php-7-docker-compose
+# Symfony Php7 Docker Compose
 
 Docker ortamının kurulması
 
