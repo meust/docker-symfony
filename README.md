@@ -9,3 +9,6 @@ Docker ortamının kurulması
 <code>
 	sudo docker-compose up --build 
 </code>
+<code>
+	composer dump-env dev
+</code>
